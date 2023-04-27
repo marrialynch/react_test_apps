@@ -1,0 +1,13 @@
+.float-container {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+}
+
+.float-child {
+  display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+}
